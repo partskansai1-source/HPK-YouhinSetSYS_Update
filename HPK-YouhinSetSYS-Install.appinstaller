@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	"https://partskansai1-source.github.io/HPK-YouhinSetSYS_Update/HPK-YouhinSetSYS-Install.appinstaller"
+	Uri="https://partskansai1-source.github.io/HPK-YouhinSetSYS_Update/HPK-YouhinSetSYS-Install.appinstaller"
 	Version="2.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="HPK-YouhinSetSYS"
@@ -13,4 +13,5 @@
 	</UpdateSettings>
 
 </AppInstaller>
+
 
