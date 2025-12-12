@@ -6,10 +6,11 @@
 		Name="HPK-YouhinSetSYS"
 		Version="2.0.0.0"
 		Publisher="CN=HondaPartsKansai"
-		Uri="file:///E:/projects/HPK-YouhinSetSYS/APP_Package/HPK-YouhinSetSYS-Install_2.0.0.0_Test/HPK-YouhinSetSYS-Install_2.0.0.0_AnyCPU.msixbundle" />
+		Uri="https://github.com/partskansai1-source/HPK-YouhinSetSYS_Update/releases/download/v2/HPK-YouhinSetSYS-Install_2.0.0.0_AnyCPU.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
 	</UpdateSettings>
 
 </AppInstaller>
+
